@@ -1,6 +1,6 @@
 package com.demo;
 
-public  ClassA {
+public  {
 	int a = 10;
 	static int b = 40;
 	
