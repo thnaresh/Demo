@@ -13,7 +13,7 @@ public class ClassA {
 	public static void main(String[] args) {
       ClassA n = new ClassA();
       
-		n.meth1();
+		n.meth1()
 	}
 
 }
