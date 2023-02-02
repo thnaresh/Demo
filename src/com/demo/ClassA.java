@@ -1,6 +1,6 @@
 package com.demo;
 
-public class ClassA {
+public  ClassA {
 	int a = 10;
 	static int b = 40;
 	
@@ -13,7 +13,7 @@ public class ClassA {
 	public static void main(String[] args) {
       ClassA n = new ClassA();
       
-		n.meth1()
+		n.meth1();
 	}
 
 }
